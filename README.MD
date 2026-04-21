@@ -30,9 +30,5 @@ Este projeto é um visualizador de perfil do GitHub simples, que permite buscar 
 ## Screenshot da Tela Inicial
 
 ![Screenshot da Tela Inicial](docs/screenshot.png)
-*Adicione aqui uma captura de tela da tela inicial do aplicativo.*
+
 ![alt text](image.png) 
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
