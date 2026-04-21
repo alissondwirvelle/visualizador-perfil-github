@@ -29,8 +29,6 @@ Este projeto é um visualizador de perfil do GitHub simples, que permite buscar 
 
 ## Screenshot da Tela Inicial
 
-![Screenshot da Tela Inicial](docs/screenshot.png)
-
 ![alt text](image.png) 
 
 ## Licença
